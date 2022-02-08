@@ -6,6 +6,6 @@ After following [FireShipIO's tutorial](https://github.com/fireship-io/gpt3-twit
 
 Instead of the bot automatically Tweeting, it will instead send the user potential options before you settle on the final result.
 
-![Screenshot of Telegram Chat](telegram_chat.jpg)
+![Screenshot of Telegram Chat](telegram_chat.JPG)
 
 Check out my bot here: [@AIHotTakes](https://twitter.com/AIHotTakes)
